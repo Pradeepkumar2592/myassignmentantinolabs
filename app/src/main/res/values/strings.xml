@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAssignmentAntinoLabs</string>
+
+
+    <!--String Resources-->
+    <string name="name">Title</string>
+    <string name="location">Location</string>
+    <string name="age">Age</string>
+</resources>
